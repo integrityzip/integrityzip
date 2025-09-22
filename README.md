@@ -1,8 +1,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=integrityzip&theme=tokyonight" height="200px" width="auto">
-<div style="display: flex;">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=integrityzip&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="auto"/>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=integrityzip&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="200px" width="auto"/>
-</div>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=integrityzip&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="200px" width="auto"/>
 
 # Tech Stack
 
