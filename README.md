@@ -4,6 +4,7 @@
 # Tech Stack
 
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff)](https://learn.microsoft.com/dotnet/csharp/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](https://www.php.net/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
